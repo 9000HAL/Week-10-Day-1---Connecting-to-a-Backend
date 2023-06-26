@@ -1,0 +1,38 @@
+Final Project Idea Outline:
+
+-API you plan on using
+
+a. researching: https://rapidapi.com/hub?authuser=0
+
+b. inquiring API re: https://ufw.org/
+
+
+
+
+c. 
+
+-Stack (technologies you plan on using)
+
+a. Flask: still training..
+
+b. FIREBASE: prob, understand to be 'user friendly'
+
+
+
+
+-BONUS: Why you want to create this app?
+re: family/public education resource
+https://9000hal.github.io/final-project/
+
+
+
+
+
+*****Please review the Capstone requirements as you continue to think about your project!
+
+a. C - R - U - D
+
+b. 
+
+
+
