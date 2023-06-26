@@ -1,4 +1,8 @@
-Final Project Idea Outline:
+
+*****Final Project Idea Outline*****
+
+
+
 
 -API you plan on using
 
@@ -6,31 +10,31 @@ a. researching: https://rapidapi.com/hub?authuser=0
 
 b. inquiring API re: https://ufw.org/
 
+c. advisement per staff/ongoing research this week
 
-
-
-c. 
-
+d. ongoing research other UFW/Latino API resources TBD...
 
 
 
 
 -Stack (technologies you plan on using)
 
-a. Flask: still training..
+a. Flask/PostGres: still training....
 
-b. FIREBASE: prob, understand to be 'user friendly'
+b. React: "state-of-the-art"; most popular; professional standard; 
 
+c. FIREBASE: most likely, understand to be 'user friendly,' other advantages
 
-
-
+d. Dylan K: "Recommended be a 'gerneralist'...."
 
 
 
 -BONUS: Why you want to create this app?
-re: family/public education resource
-https://9000hal.github.io/final-project/
+re: https://9000hal.github.io/final-project/
 
+a. re: family/public education resource
+b. recommended to show a "portfolio evolution" as an intentional feature
+c.
 
 
 
