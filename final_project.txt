@@ -11,11 +11,18 @@ b. inquiring API re: https://ufw.org/
 
 c. 
 
+
+
+
+
 -Stack (technologies you plan on using)
 
 a. Flask: still training..
 
 b. FIREBASE: prob, understand to be 'user friendly'
+
+
+
 
 
 
