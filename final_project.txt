@@ -2,6 +2,9 @@
 *****Final Project Idea Outline*****
 
 
+---> "Uncle Gilbert/UFW Co-Founder <> Family Heritage Educational Resource Platform"
+
+
 
 
 -API you plan on using
@@ -19,7 +22,7 @@ d. ongoing research other UFW/Latino API resources TBD...
 
 -Stack (technologies you plan on using)
 
-a. Flask/PostGres: still training....
+a. Flask/PostGres: still completing; 
 
 b. React: "state-of-the-art"; most popular; professional standard; 
 
